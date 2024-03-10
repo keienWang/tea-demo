@@ -1,0 +1,22 @@
+{
+  "name": "tea-demo_wek",
+  "version": "1.0.0",
+  "description": "hello_world",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keienWang/tea-demo_wek.git"
+  },
+  "keywords": [
+    "hello_tea"
+  ],
+  "author": "keienwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keienWang/tea-demo_wek/issues"
+  },
+  "homepage": "https://github.com/keienWang/tea-demo_wek#readme"
+}
